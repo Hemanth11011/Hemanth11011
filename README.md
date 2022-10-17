@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemanth11011
 - 👀 I’m interested in Coding and learning new Skills and Stuff 
-- 🛠  I know basics of C++,Python, HTML, CSS
+- 🛠  I know basics of C++,Python, HTML, CSS, ExpressJS
 - 🌱 I’m currently learning Python and Web Development in detail 
 - 💞️ I’m looking to collaborate on anything interesting and engaging 
 - 📫 How to reach me? hemanthsingh11011@gmail.com
